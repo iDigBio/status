@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: status.idigbio.org
 description: Maintanence windows, issue details, and so on for iDigBio server infrastructure.
 logo: IDigBio_Logo_RGB.png
