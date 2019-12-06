@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: status.idigbio.org
 description: A page showing any outage or issues with iDigBio server infrastructure
+logo: IDigBio_Logo_RGB.png
