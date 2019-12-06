@@ -1,4 +1,4 @@
-# iDigBio System Status
+![image](IDigBio_Logo_RGB.png)
 
 There are no known issues at this time.
 
