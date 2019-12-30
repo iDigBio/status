@@ -1,8 +1,9 @@
 ![image](IDigBio_Logo_RGB.png)
 
-*Note: there is a second planned electrical outage.  Please see [www.idigbio.org](https://www.idigbio.org)*
+Monday, December 30th:
 
-There are no known outages at this time.
+**iDigBio is currently unavailable due to maintenance at the University of Florida.**
+
 
 ----
 
