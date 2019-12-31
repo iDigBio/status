@@ -1,9 +1,6 @@
 ![image](IDigBio_Logo_RGB.png)
 
-Monday, December 30th:
-
-**iDigBio is currently unavailable due to maintenance at the University of Florida.**
-
+There are currently no known issues.
 
 ----
 
