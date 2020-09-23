@@ -1,7 +1,6 @@
 ![image](IDigBio_Logo_RGB.png)
 
-2020-09-23 10:00: www.idigbio.org is currently experiencing connectivity problems likely related to campus network issues.  http://portal.idigbio.org remains up and running.
-
+2020-09-23 10:00: www.idigbio.org is operating normally. Please let us know if you have any issues using the site.
 ----
 
 This page is manually updated by iDigBio staff whenever an outage or issue occurs.
