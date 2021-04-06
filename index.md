@@ -1,6 +1,11 @@
 ![image](IDigBio_Logo_RGB.png)
 
-2020-09-23 10:00: www.idigbio.org is operating normally. Please let us know if you have any issues using the site.
+There are currently no known issues.
+
+If you are experiencing a problem with the site, please feel to contact us via the following form:
+
+https://www.idigbio.org/contact
+
 ----
 
 This page is manually updated by iDigBio staff whenever an outage or issue occurs.
